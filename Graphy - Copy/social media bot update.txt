@@ -1,0 +1,15 @@
+What is the total transaction amount in the dataset?
+
+Which customer made the highest purchase?
+
+On which date were the most transactions recorded?
+
+What is the average transaction value?
+
+Which product category generated the maximum revenue?
+
+How many unique customers are in the file?
+
+What is the minimum transaction amount recorded?
+
+Can you show the monthly sales trend from this data?

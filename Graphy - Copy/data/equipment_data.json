@@ -1,0 +1,555 @@
+{
+    "Trove Enclosure": {
+        "cost": 953.18,
+        "labor": 24.0,
+        "flat_rate": 100.0,
+        "item_no": "SQD6727106",
+        "comments": ""
+    },
+    "Altronix - PD16W": {
+        "cost": 55.0,
+        "labor": 0.5,
+        "flat_rate": 0.0,
+        "item_no": "CAM9081643",
+        "comments": ""
+    },
+    "Altronix - eFLOW102NX16": {
+        "cost": 368.0,
+        "labor": 1.5,
+        "flat_rate": 10.0,
+        "item_no": "SQD6730251",
+        "comments": "12VDC/10A"
+    },
+    "Altronix - eFLOW104NX16": {
+        "cost": 340.4,
+        "labor": 1.5,
+        "flat_rate": 10.0,
+        "item_no": "SQD6730222",
+        "comments": "24VDC/10A"
+    },
+    "Altronix - CAM Lock": {
+        "cost": 7.0,
+        "labor": 0.25,
+        "flat_rate": 0.0,
+        "item_no": "ALM9081551",
+        "comments": ""
+    },
+    "Tamper Switch": {
+        "cost": 49.0,
+        "labor": 0.5,
+        "flat_rate": 0.0,
+        "item_no": "SQD6750008",
+        "comments": ""
+    },
+    "Battery Backup (12V/12A)": {
+        "cost": 26.78,
+        "labor": 0.5,
+        "flat_rate": 0.0,
+        "item_no": "3ACSGR1061039000",
+        "comments": "12V/12A"
+    },
+    "Controller Board - V1000": {
+        "cost": 1053.0,
+        "labor": 1.0,
+        "flat_rate": 0.0,
+        "item_no": "ACS6730156",
+        "comments": ""
+    },
+    "Connector Board - V100": {
+        "cost": 438.0,
+        "labor": 1.0,
+        "flat_rate": 0.0,
+        "item_no": "3ACSGR6730029000",
+        "comments": "1 V100 supports up to 2 hard-wired readers"
+    },
+    "Input Board - V200": {
+        "cost": 484.0,
+        "labor": 2.0,
+        "flat_rate": 0.0,
+        "item_no": "3ACSGR6730030000",
+        "comments": ""
+    },
+    "Output Board - V300": {
+        "cost": 484.0,
+        "labor": 2.0,
+        "flat_rate": 0.0,
+        "item_no": "3ACSGR6730031000",
+        "comments": ""
+    },
+    "Controller Board - LP1501": {
+        "cost": 570.0,
+        "labor": 1.0,
+        "flat_rate": 0.0,
+        "item_no": "",
+        "comments": "we do not sell these although we can support them (there is a license fee)"
+    },
+    "Controller Board - LP1502": {
+        "cost": 1005.0,
+        "labor": 1.0,
+        "flat_rate": 0.0,
+        "item_no": "",
+        "comments": "we do not sell these although we can support them (there is a license fee)"
+    },
+    "Controller Board - LP2500": {
+        "cost": 0.0,
+        "labor": 1.0,
+        "flat_rate": 0.0,
+        "item_no": "",
+        "comments": "we do not sell these although we can support them (there is a license fee)"
+    },
+    "Controller Board - LP4502": {
+        "cost": 1689.84,
+        "labor": 1.0,
+        "flat_rate": 0.0,
+        "item_no": "",
+        "comments": ""
+    },
+    "Connector Board - MR52-S3": {
+        "cost": 695.0,
+        "labor": 1.0,
+        "flat_rate": 0.0,
+        "item_no": "",
+        "comments": ""
+    },
+    "Output Board - MR16OUT-S3": {
+        "cost": 719.0,
+        "labor": 2.0,
+        "flat_rate": 0.0,
+        "item_no": "",
+        "comments": ""
+    },
+    "Input Board - MR16IN-S3": {
+        "cost": 719.0,
+        "labor": 2.0,
+        "flat_rate": 0.0,
+        "item_no": "",
+        "comments": ""
+    },
+    "RS485 HUB": {
+        "cost": 594.0,
+        "labor": 1.0,
+        "flat_rate": 0.0,
+        "item_no": "ACS6730091",
+        "comments": ""
+    },
+    "BLE Antenna - GWE": {
+        "cost": 408.0,
+        "labor": 1.5,
+        "flat_rate": 5.0,
+        "item_no": "NDE6727076",
+        "comments": "1 GWE controls up to 10 NDE's with (10'-25' apart)"
+    },
+    "RS400-485 Antenna - PIM": {
+        "cost": 1225.0,
+        "labor": 2.0,
+        "flat_rate": 2.0,
+        "item_no": "ADL6722995",
+        "comments": "1 PIM controls 16 AD400's"
+    },
+    "RS485 Interface - WRI": {
+        "cost": 895.0,
+        "labor": 2.5,
+        "flat_rate": 0.0,
+        "item_no": "ADL6724556",
+        "comments": "1 WRI controls: 1 or 2 MTMS15's (under the same location number)"
+    },
+    "AD300 Lockset": {
+        "cost": 1918.51,
+        "labor": 12.0,
+        "flat_rate": 320.0,
+        "item_no": "ADL6737832",
+        "comments": ""
+    },
+    "AD300-993R Lockset": {
+        "cost": 1973.0,
+        "labor": 14.0,
+        "flat_rate": 320.0,
+        "item_no": "ADL6738087",
+        "comments": ""
+    },
+    "AD400-CYL Lockset": {
+        "cost": 1831.84,
+        "labor": 4.0,
+        "flat_rate": 0.0,
+        "item_no": "ADL6735509",
+        "comments": ""
+    },
+    "AD400-993R Lockset": {
+        "cost": 2111.11,
+        "labor": 8.0,
+        "flat_rate": 0.0,
+        "item_no": "ADL6781111",
+        "comments": ""
+    },
+    "AD400-993R SVR Lockset": {
+        "cost": 2194.57,
+        "labor": 8.0,
+        "flat_rate": 0.0,
+        "item_no": "",
+        "comments": ""
+    },
+    "MT11 Reader": {
+        "cost": 295.9,
+        "labor": 3.0,
+        "flat_rate": 0.0,
+        "item_no": "ACS6780036",
+        "comments": ""
+    },
+    "MT15 Reader": {
+        "cost": 295.9,
+        "labor": 3.0,
+        "flat_rate": 0.0,
+        "item_no": "ACS6780037",
+        "comments": ""
+    },
+    "MTMS15 Reader": {
+        "cost": 623.0,
+        "labor": 3.0,
+        "flat_rate": 0.0,
+        "item_no": "ACS6780039",
+        "comments": ""
+    },
+    "MTMSK15 Reader": {
+        "cost": 600.0,
+        "labor": 3.0,
+        "flat_rate": 0.0,
+        "item_no": "ACS6780040",
+        "comments": ""
+    },
+    "MorphoTrak (Bio) Reader": {
+        "cost": 1129.0,
+        "labor": 3.0,
+        "flat_rate": 0.0,
+        "item_no": "ALM9082644",
+        "comments": ""
+    },
+    "LE Wireless Mortise Lock": {
+        "cost": 1034.0,
+        "labor": 3.0,
+        "flat_rate": 0.0,
+        "item_no": "",
+        "comments": ""
+    },
+    "NDEB Lockset": {
+        "cost": 859.0,
+        "labor": 2.5,
+        "flat_rate": 0.0,
+        "item_no": "ADL6736017",
+        "comments": ""
+    },
+    "ND80 Lockset": {
+        "cost": 500.0,
+        "labor": 3.0,
+        "flat_rate": 0.0,
+        "item_no": "",
+        "comments": ""
+    },
+    "ND96 Lockset": {
+        "cost": 500.0,
+        "labor": 3.0,
+        "flat_rate": 0.0,
+        "item_no": "",
+        "comments": ""
+    },
+    "M996-NL-626": {
+        "cost": 700.0,
+        "labor": 3.0,
+        "flat_rate": 0.0,
+        "item_no": "",
+        "comments": ""
+    },
+    "Von Duprin (electrified)": {
+        "cost": 3500.0,
+        "labor": 4.0,
+        "flat_rate": 0.0,
+        "item_no": "",
+        "comments": ""
+    },
+    "Von Duprin (mechanical)": {
+        "cost": 3000.0,
+        "labor": 4.0,
+        "flat_rate": 0.0,
+        "item_no": "",
+        "comments": ""
+    },
+    "AXIS Intercom": {
+        "cost": 950.0,
+        "labor": 3.0,
+        "flat_rate": 0.0,
+        "item_no": "",
+        "comments": ""
+    },
+    "CISCO Phone": {
+        "cost": 480.0,
+        "labor": 3.0,
+        "flat_rate": 0.0,
+        "item_no": "",
+        "comments": ""
+    },
+    "Electric Hinge": {
+        "cost": 500.0,
+        "labor": 2.0,
+        "flat_rate": 0.0,
+        "item_no": "",
+        "comments": ""
+    },
+    "Electric Strike (ES)": {
+        "cost": 180.0,
+        "labor": 0.0,
+        "flat_rate": 0.0,
+        "item_no": "AdamsRite 7440-630",
+        "comments": ""
+    },
+    "Latch & Paddle": {
+        "cost": 150.0,
+        "labor": 6.0,
+        "flat_rate": 0.0,
+        "item_no": "",
+        "comments": ""
+    },
+    "Motion Sensor (MS)": {
+        "cost": 120.0,
+        "labor": 0.0,
+        "flat_rate": 0.0,
+        "item_no": "",
+        "comments": ""
+    },
+    "Door Position Switch (DPS)": {
+        "cost": 15.0,
+        "labor": 1.5,
+        "flat_rate": 0.0,
+        "item_no": "",
+        "comments": ""
+    },
+    "IC Cores RIM": {
+        "cost": 180.0,
+        "labor": 0.0,
+        "flat_rate": 60.0,
+        "item_no": "",
+        "comments": ""
+    },
+    "Cylinders - Cylindrical": {
+        "cost": 125.0,
+        "labor": 0.0,
+        "flat_rate": 60.0,
+        "item_no": "",
+        "comments": ""
+    },
+    "Cylinders - Mortise IC Core": {
+        "cost": 125.0,
+        "labor": 0.0,
+        "flat_rate": 60.0,
+        "item_no": "",
+        "comments": ""
+    },
+    "Cylinders - Mortise Standard": {
+        "cost": 125.0,
+        "labor": 0.0,
+        "flat_rate": 60.0,
+        "item_no": "",
+        "comments": ""
+    },
+    "Wire Run (ft)": {
+        "cost": 0.87613656,
+        "labor": 0.0,
+        "flat_rate": 1.61,
+        "item_no": "",
+        "comments": "$100 are for j-hooks, actual wire run is per foot"
+    },
+    "Panel Terminations": {
+        "cost": 0.0,
+        "labor": 2.0,
+        "flat_rate": 0.0,
+        "item_no": "",
+        "comments": ""
+    },
+    "Pedestal (CR)": {
+        "cost": 1190.0,
+        "labor": 5.0,
+        "flat_rate": 12.0,
+        "item_no": "",
+        "comments": ""
+    },
+    "Pedestal (CR+PTO)": {
+        "cost": 1265.0,
+        "labor": 5.0,
+        "flat_rate": 12.0,
+        "item_no": "",
+        "comments": ""
+    },
+    "Backplates (set of 2)": {
+        "cost": 0.0,
+        "labor": 0.0,
+        "flat_rate": 60.0,
+        "item_no": "",
+        "comments": ""
+    },
+    "Operator Integration": {
+        "cost": 0.0,
+        "labor": 12.0,
+        "flat_rate": 0.0,
+        "item_no": "",
+        "comments": ""
+    },
+    "Slab Imaging": {
+        "cost": 0.0,
+        "labor": 0.0,
+        "flat_rate": 800.0,
+        "item_no": "",
+        "comments": ""
+    },
+    "Core Drill/Sleeve (up to 4 in)": {
+        "cost": 0.0,
+        "labor": 14.0,
+        "flat_rate": 70.0,
+        "item_no": "",
+        "comments": ""
+    },
+    "Sleeve (thru block)": {
+        "cost": 0.0,
+        "labor": 10.0,
+        "flat_rate": 60.0,
+        "item_no": "",
+        "comments": ""
+    },
+    "Sleeve (thru drywall)": {
+        "cost": 0.0,
+        "labor": 4.0,
+        "flat_rate": 30.0,
+        "item_no": "",
+        "comments": "up to 2\""
+    },
+    "New Circuit": {
+        "cost": 0.0,
+        "labor": 40.0,
+        "flat_rate": 450.0,
+        "item_no": "",
+        "comments": "from existing panel with spaces"
+    },
+    "Conduit (access cables, 1 in, ea 100 ft)": {
+        "cost": 0.0,
+        "labor": 40.0,
+        "flat_rate": 250.0,
+        "item_no": "",
+        "comments": ""
+    },
+    "Conduit/J-Box (exposed, per door)": {
+        "cost": 0.0,
+        "labor": 30.0,
+        "flat_rate": 180.0,
+        "item_no": "",
+        "comments": ""
+    },
+    "Drawings": {
+        "cost": 0.0,
+        "labor": 0.0,
+        "flat_rate": 5000.0,
+        "item_no": "",
+        "comments": "$3k-$5k per building"
+    },
+    "Scissor Lift": {
+        "cost": 0.0,
+        "labor": 0.0,
+        "flat_rate": 1000.0,
+        "item_no": "",
+        "comments": ""
+    },
+    "RFS Processing Time": {
+        "cost": 0.0,
+        "labor": 80.0,
+        "flat_rate": 0.0,
+        "item_no": "",
+        "comments": "2 weeks"
+    },
+    "PO Processing Time": {
+        "cost": 0.0,
+        "labor": 160.0,
+        "flat_rate": 0.0,
+        "item_no": "",
+        "comments": "4 weeks"
+    },
+    "Node Count": {
+        "cost": 0.0,
+        "labor": 0.0,
+        "flat_rate": 0.0,
+        "item_no": "",
+        "comments": ""
+    },
+    "IP Address/Port Activation": {
+        "cost": 72.0,
+        "labor": 0.0,
+        "flat_rate": 0.0,
+        "item_no": "",
+        "comments": ""
+    },
+    "MTMS15_WRI_Combo": {
+        "cost": 1518.0,
+        "labor": 5.5,
+        "flat_rate": 0.0,
+        "item_no": "COMBO",
+        "comments": "MTMS15 Reader + RS485 WRI"
+    },
+    "DPS-Only (Door Position Switch)": {
+        "cost": 15.0,
+        "labor": 1.5,
+        "flat_rate": 0.0,
+        "item_no": "",
+        "comments": "Door Position Switch Only"
+    },
+    "Von Duprin (single), EL": {
+        "cost": 3500.0,
+        "labor": 4.0,
+        "flat_rate": 0.0,
+        "item_no": "VD_S_EL",
+        "comments": "Von Duprin Single Electrified"
+    },
+    "Von Duprin (double), EL": {
+        "cost": 7000.0,
+        "labor": 8.0,
+        "flat_rate": 0.0,
+        "item_no": "VD_D_EL",
+        "comments": "Von Duprin Double Electrified"
+    },
+    "Von Duprin (single), MECH": {
+        "cost": 3000.0,
+        "labor": 4.0,
+        "flat_rate": 0.0,
+        "item_no": "VD_S_MECH",
+        "comments": "Von Duprin Single Mechanical"
+    },
+    "Von Duprin (double), MECH": {
+        "cost": 6000.0,
+        "labor": 8.0,
+        "flat_rate": 0.0,
+        "item_no": "VD_D_MECH",
+        "comments": "Von Duprin Double Mechanical"
+    },
+    "Von Duprin PH (single)": {
+        "cost": 3500.0,
+        "labor": 4.0,
+        "flat_rate": 0.0,
+        "item_no": "VD_PH_S",
+        "comments": "Von Duprin Panic Hardware Single"
+    },
+    "Von Duprin PH (double)": {
+        "cost": 7000.0,
+        "labor": 8.0,
+        "flat_rate": 0.0,
+        "item_no": "VD_PH_D",
+        "comments": "Von Duprin Panic Hardware Double"
+    },
+    "Von Duprin 9975 (single)": {
+        "cost": 3500.0,
+        "labor": 4.0,
+        "flat_rate": 0.0,
+        "item_no": "VD_9975_S",
+        "comments": "Von Duprin 9975 Single"
+    },
+    "Von Duprin 9975 (double)": {
+        "cost": 7000.0,
+        "labor": 8.0,
+        "flat_rate": 0.0,
+        "item_no": "VD_9975_D",
+        "comments": "Von Duprin 9975 Double"
+    }
+}
